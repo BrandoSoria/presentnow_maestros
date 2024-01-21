@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
   final List<String> materias = [
-    'Matemáticas',
-    'Historia',
-    'Ciencias',
-    'Literatura',
+    'Gestion De Proyectos',
+    'POO',
+    'Calculo Diferencial',
+    'Prolog',
     'Conmutacion De Redes De Datos'
   ];
 
