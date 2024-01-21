@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
                 },
                 style: ElevatedButton.styleFrom(
                   padding: EdgeInsets.all(20),
-                  primary: Color.fromRGBO(159, 199, 232, 1.0),
+                  backgroundColor: Color.fromRGBO(159, 199, 232, 1.0),
                 ),
                 child: Text(
                   materia,
